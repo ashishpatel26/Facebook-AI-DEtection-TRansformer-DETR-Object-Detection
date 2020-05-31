@@ -14,11 +14,11 @@ PyTorch training code and pretrained models for **DETR** (**DE**tection **TR**an
 
 # My Experiment on Model
 
-![hotballon](D:\Ashish\github\Facebook-AI-DEtection-TRansformer-DETR-Object-Detection\images\hotballon.png)
+![hotballon](https://github.com/ashishpatel26/Facebook-AI-DEtection-TRansformer-DETR-Object-Detection/blob/master/images/hotballon.png)
 
-| ![hotballon](D:\Ashish\github\Facebook-AI-DEtection-TRansformer-DETR-Object-Detection\images\hotballon.png) | ![streetlight](D:\Ashish\github\Facebook-AI-DEtection-TRansformer-DETR-Object-Detection\images\streetlight.png) |
+| ![hotballon](https://github.com/ashishpatel26/Facebook-AI-DEtection-TRansformer-DETR-Object-Detection/blob/master/images/hotballon.png) | ![streetlight](https://github.com/ashishpatel26/Facebook-AI-DEtection-TRansformer-DETR-Object-Detection/blob/master/images/streetlight.png) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![carplane](D:\Ashish\github\Facebook-AI-DEtection-TRansformer-DETR-Object-Detection\images\carplane.png) | ![workdesk](D:\Ashish\github\Facebook-AI-DEtection-TRansformer-DETR-Object-Detection\images\workdesk.png) |
+| ![carplane](https://github.com/ashishpatel26/Facebook-AI-DEtection-TRansformer-DETR-Object-Detection/blob/master/images/carplane.png) | ![workdesk](https://github.com/ashishpatel26/Facebook-AI-DEtection-TRansformer-DETR-Object-Detection/blob/master/images/workdesk.png) |
 
 
 
